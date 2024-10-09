@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript, PHP, Astro, tailwindcss**
 
-- 👨‍💻 Todos mis proyectos están disponibles en mi perfil de GitHub [https://github.com/DanielBelenguer](https://github.com/DanielBelenguer)
+- 👨‍💻 Todos mis proyectos están disponibles en mi perfil de GitHub [https://github.com/DanielBelenguer](https://github.com/DanielBelenguer?tab=repositories)
 
 - 📫 Cómo contactar conmigo **danielbelenguerfernandez@gmail.com**
 
