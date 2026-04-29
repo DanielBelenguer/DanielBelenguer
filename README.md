@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Daniel Belenguer
 
-*Desarrollador Frontend enfocado en crear interfaces claras, rápidas y con buena experiencia de usuario.*
+*Soy un profesional tecnológico con base en programación y experiencia actual en soporte técnico, enfocado en resolver problemas y aportar soluciones prácticas tanto a usuarios como a proyectos.*
 
 [![Ver Proyectos](https://img.shields.io/badge/Ver%20Proyectos-GitHub-111111?style=flat&logo=github&logoColor=white)](https://github.com/DanielBelenguer?tab=repositories)
 [![Contacto](https://img.shields.io/badge/Contacto-Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:danielbelenguerfernandez@gmail.com)
